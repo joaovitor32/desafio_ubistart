@@ -26,4 +26,4 @@ Para rodar as aplicações localmente, siga os seguintes passos:
    yarn start
    ```
 
-   Isso irá iniciar o servidor de desenvolvimento do frontend.
+   Isso irá iniciar o servidor de desenvolvimento do frontend, abra o navegador em http://localhost:3001.
